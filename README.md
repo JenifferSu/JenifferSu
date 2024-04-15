@@ -5,7 +5,7 @@
 - 📫 How to reach me : jsukli20030412@gmail.com
 - 😄 Pronouns: Jen
 - ⚡ Fun fact: I love cat
-
+![Meow](C:\Users\User\OneDrive\Documents\Pictures\meow.jpeg)
 <!---
 JenifferSu/JenifferSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

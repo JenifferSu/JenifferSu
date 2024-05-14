@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JenifferSu
-- 👀 I’m interested in coding, innovation and ctf
+- 👀 I’m interested in coding, innovation, CTF and design
 - 🌱 I’m currently learning  Cyber Security
 - 💞️ I’m looking to collaborate on coding project, hackathon
 - 📫 How to reach me: jsukli20030412@gmail.com

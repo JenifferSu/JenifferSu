@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding project, hackathon
 - 📫 How to reach me: jsukli20030412@gmail.com
 - 😄 Linkedln: www.linkedin.com/in/jeniffer-su-kai-li
-- :newspaper: Medium:https://medium.com/@jsukli20030412/gctf-2024-write-up-dde8714cdec1
+- :newspaper: Medium:https://medium.com/@jsukli20030412
   
 
 
